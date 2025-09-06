@@ -1,2 +1,2 @@
 ### ls
-Lists files and directories in the current directory.
+Lists files and directories in the current directory. 
