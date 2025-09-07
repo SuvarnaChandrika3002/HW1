@@ -15,3 +15,7 @@ Removes files or directories. Uses rm -r for directories.
 
 ### cp 
 Copies files or directories
+
+### mv 
+moves or renames files or directories. 
+
