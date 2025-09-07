@@ -33,3 +33,6 @@ Stages changes to be committed
 
 ### git-commit
 Records staged changes with message
+
+### git-branch
+Lists, creates, or deletes branches
