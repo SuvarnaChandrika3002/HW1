@@ -36,3 +36,6 @@ Records staged changes with message
 
 ### git-branch
 Lists, creates, or deletes branches
+
+### git-checkout
+Switches to another branch 
