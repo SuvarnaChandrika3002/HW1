@@ -39,3 +39,6 @@ Lists, creates, or deletes branches
 
 ### git-checkout
 Switches to another branch 
+
+### git-merge
+Merges 2 current branch with another
