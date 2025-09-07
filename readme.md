@@ -30,3 +30,6 @@ Shows status of changes
 
 ### git-add
 Stages changes to be committed
+
+### git-commit
+Records staged changes with message
