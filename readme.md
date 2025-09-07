@@ -24,3 +24,6 @@ Displays the contents of a file
 
 ### git-init
 Initializes a new Git repository in the current directory. 
+
+### git-status
+Shows status of changes
