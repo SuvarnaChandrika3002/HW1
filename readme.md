@@ -27,3 +27,6 @@ Initializes a new Git repository in the current directory.
 
 ### git-status
 Shows status of changes
+
+### git-add
+Stages changes to be committed
